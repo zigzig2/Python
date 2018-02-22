@@ -1,0 +1,10 @@
+#2/22/2018
+#From Python And Algorithmic Thinking For The Complete Beginner
+#Page 87 Excercise 7.5-1
+
+firstN = input("Type your first name ")
+lastN = input("Type your last name ")
+
+fullName = firstN + " " + lastN
+
+print(fullName)
